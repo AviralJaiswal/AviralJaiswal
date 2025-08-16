@@ -22,7 +22,7 @@ An independent technical engineer creating technical projects to solve real-worl
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-teal?style=for-the-badge&logo=font-awesome&logoColor=white&link=https://yourportfolio.com/)](https://suryapratapsingh.netlify.app/#home)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)](https://www.linkedin.com/in/aviral-jaiswal-21bbb8250/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DreamPoint)](https://www.youtube.com/@itsaviraljaiswal)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/suryapratap6473/)](https://www.instagram.com/suryapratap6473/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/suryapratap6473/)](https://www.instagram.com/itsaviraljaiswal/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/suryapratap2542/)](https://leetcode.com/u/itsaviraljaiswal/)
 [![Codechef Badge](https://img.shields.io/badge/-Codechef-lightgrey?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/surya_pratap04/)](https://www.codechef.com/users/aviraljaiswal)
 
